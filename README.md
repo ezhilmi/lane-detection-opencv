@@ -1,2 +1,3 @@
 # lane-detection-opencv
-A model to detect the lane
+
+Building lane detection system using OpenCV
